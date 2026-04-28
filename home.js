@@ -1,7 +1,7 @@
 let cart = JSON.parse(localStorage.getItem("cart")) || [];
 
 // 👉 Replace with your WhatsApp number
-let phoneNumber = "+91 9381714582";
+let phoneNumber = "919381714582";
 
 // Save cart
 function saveCart() {
